@@ -1,14 +1,16 @@
 ## Sobre Mim
 
-Olá, sou João Lucas Claudino, um entusiasta da programação com 8 meses de experiência no desenvolvimento de software. Minha jornada começou há pouco, mas já conquistei conhecimentos sólidos em tecnologias cruciais para o cenário atual. Meu foco principal é em C# e Angular, mas estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para enfrentar os desafios do mundo da programação.
+Olá, sou João Lucas Claudino, um entusiasta da programação com 9 meses de experiência no desenvolvimento de software. Minha jornada começou há pouco, mas já conquistei conhecimentos sólidos em tecnologias cruciais para o cenário atual. Meu trabalho atual é com o uso de C# e Angular, mas estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para enfrentar os desafios do mundo da programação.
 
-Tenho especial interesse em aprofundar meus conhecimentos em tecnologias como JavaScript, CSharp, Angular e GoLang. Além disso, estou aberto e entusiasmado para explorar outras linguagens e tecnologias emergentes, pois acredito que a aprendizagem contínua é essencial para o crescimento profissional.
+Tenho especial interesse em aprofundar meus conhecimentos em tecnologias como React, CSharp, Angular e GoLang. Além disso, estou aberto e entusiasmado para explorar outras linguagens e tecnologias emergentes, pois acredito que a aprendizagem contínua é essencial para o crescimento profissional.
 
 ## Projetos Destacados
 
-Aqui está um dos meus projetos mais notáveis:
+Aqui está os meus projetos mais notáveis:
 
-- [Locadora de Automóveis](https://github.com/ljoaolucasl/LocadoraAutomoveis.git): Um sistema completo de gerenciamento de locadora de automóveis, demonstrando minha habilidade em desenvolvimento C# e arquitetura de software.
+- [eMedSchedule](https://github.com/ljoaolucasl/eMedSchedule.git): Um sistema completo de gerenciamento de uma agenda médica. (Api)
+- [eMedScheduleWeb](https://github.com/ljoaolucasl/eMedScheduleWeb.git): Um sistema completo de gerenciamento de uma agenda médica. (Web)
+- [Locadora de Automóveis](https://github.com/ljoaolucasl/LocadoraAutomoveis.git): Um sistema completo de gerenciamento de locadora de automóveis. (WinApp)
 
 ## Contato
 
