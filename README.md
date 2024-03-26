@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá, sou João Lucas Claudino, um entusiasta da programação com 9 meses de experiência no desenvolvimento de software. Minha jornada começou há pouco, mas já conquistei conhecimentos sólidos em tecnologias cruciais para o cenário atual. Meu trabalho atual é com o uso de C# e Angular, mas estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para enfrentar os desafios do mundo da programação.
+Olá, sou João Lucas Claudino, um entusiasta da programação com mais de 1 ano de experiência no desenvolvimento de software. Minha jornada começou há pouco, mas já conquistei conhecimentos sólidos em tecnologias cruciais para o cenário atual. Meu trabalho atual é com o uso de C# e Angular, mas estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para enfrentar os desafios do mundo da programação.
 
 Tenho especial interesse em aprofundar meus conhecimentos em tecnologias como React, CSharp, Angular e GoLang. Além disso, estou aberto e entusiasmado para explorar outras linguagens e tecnologias emergentes, pois acredito que a aprendizagem contínua é essencial para o crescimento profissional.
 
@@ -17,6 +17,3 @@ Aqui está os meus projetos mais notáveis:
 Se você quiser entrar em contato comigo, fique à vontade para enviar uma mensagem para claudinojoaolucas0@gmail.com ou me encontrar nas seguintes plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/joao-lucas-claudino/): LinkedIn é uma ótima maneira de se conectar e colaborar em projetos interessantes.
-- [GitHub](https://github.com/ljoaolucasl): Visite meu perfil no GitHub para explorar mais projetos e contribuições.
-
-Fico feliz em colaborar em projetos interessantes ou discutir oportunidades de trabalho. Vamos programar juntos!
